@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304873989662",
+    "project_id": "pshnotif-11d4b",
+    "storage_bucket": "pshnotif-11d4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304873989662:android:9a3bdae624845ef87e300f",
+        "android_client_info": {
+          "package_name": "mn.jagaa.pshnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304873989662-08gh4l71lr4cicbs2gk8q380sjtgcn8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzgnG-0ZWFidrFq0L7EdbwyqzDDmwTzB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304873989662-08gh4l71lr4cicbs2gk8q380sjtgcn8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
