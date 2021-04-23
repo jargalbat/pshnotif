@@ -1,4 +1,4 @@
-import 'package:firebase_core/firebase_core.dart';
+// import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:pshnotif/push_notif_manager.dart';
@@ -7,7 +7,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   // Google Firebase
-  await Firebase.initializeApp();
+  // await Firebase.initializeApp();
   pushNotifManager.init();
   // FirebaseMessaging.onBackgroundMessage(PushNotifManager.firebaseMessagingBackgroundHandler); // Firebase push notification
 
